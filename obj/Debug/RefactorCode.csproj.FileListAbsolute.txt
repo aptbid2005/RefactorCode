@@ -1,0 +1,7 @@
+C:\Source\RefactorCode\RefactorCode\bin\Debug\RefactorCode.exe.config
+C:\Source\RefactorCode\RefactorCode\bin\Debug\RefactorCode.exe
+C:\Source\RefactorCode\RefactorCode\bin\Debug\RefactorCode.pdb
+C:\Source\RefactorCode\RefactorCode\obj\Debug\RefactorCode.csprojAssemblyReference.cache
+C:\Source\RefactorCode\RefactorCode\obj\Debug\RefactorCode.csproj.CoreCompileInputs.cache
+C:\Source\RefactorCode\RefactorCode\obj\Debug\RefactorCode.exe
+C:\Source\RefactorCode\RefactorCode\obj\Debug\RefactorCode.pdb
